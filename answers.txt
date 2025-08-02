@@ -1,0 +1,14 @@
+Here  is more indept data about the persons music listening preferences based on vaerage eneergy, valence and danceability
+
+ENERGY
+avarage energy of music is 0.659
+
+VALANCE
+Average valance of music is 0.484
+
+DANCEABILITY
+0.716
+
+The valance of music that the user listened to was avaerage
+
+
